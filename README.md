@@ -1,6 +1,6 @@
-# React + Vite
+# GSAP ANIMATED COMPONENT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a set of popular gsap scrolling effects and animations made in React as components. You can use it as you please, and you can also contribute to make it better.
 
 Currently, two official plugins are available:
 
